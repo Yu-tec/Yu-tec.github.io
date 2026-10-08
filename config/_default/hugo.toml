@@ -6,7 +6,7 @@
 # website title
 title = ""
 # Hostname (and path) to the root
-baseURL = "https://yutec.github.io/"
+baseURL = "https://yu-tec.github.io/"
 # theme list
 # theme = ["FixIt"] # enable in your site config file
 # determines default content language ["en", "zh-cn", "fr", "pl", ...]
