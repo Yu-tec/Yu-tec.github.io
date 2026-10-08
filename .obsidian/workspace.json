@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/系统监控脚本项目.md",
+                "file": "content/posts/system-monitor-script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "系统监控脚本项目"
+              "title": "system-monitor-script"
             }
           }
         ]
@@ -188,10 +188,10 @@
   },
   "active": "ac5bb2d0923152df",
   "lastOpenFiles": [
+    "content/posts/hello-world.md",
+    "content/posts/system-monitor-script.md",
     "README.en.md",
     "README.md",
-    "content/posts/系统监控脚本项目.md",
-    "content/posts/hello-world.md",
     "未命名.base"
   ]
 }

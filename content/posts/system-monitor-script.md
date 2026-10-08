@@ -2,6 +2,10 @@
 title: Shell-系统监控脚本
 date: 2026-10-08
 slug: system-monitor-script
+tags:
+  - Shell
+categories:
+  - 运维
 ---
 ## 一、第一阶段：手写 MVP（最小可行性产品）
 
