@@ -4,19 +4,19 @@
 # -------------------------------------------------------------------------------------
 
 # website title
-title = ""
+title = "Yu-tec 的技术博客"
 # Hostname (and path) to the root
 baseURL = "https://yu-tec.github.io/"
 # theme list
 # theme = ["FixIt"] # enable in your site config file
 # determines default content language ["en", "zh-cn", "fr", "pl", ...]
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh-cn"
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "zh-CN"
 # language name ["English", "简体中文", "Français", "Polski", ...]
 languageName = "简体中文"
 # whether to include Chinese/Japanese/Korean
-hasCJKLanguage = false
+hasCJKLanguage = true
 # copyright description used only for seo schema
 copyright = ""
 # whether to use robots.txt
